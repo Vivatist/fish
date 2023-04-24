@@ -24,6 +24,9 @@ class Scene():
         self.bubble_generators_group.add(BubbleGenerator(988, 543, 5, self))
         self.bubble_generators_group.add(BubbleGenerator(96, 539, 10, self))
         self.bubble_generators_group.add(BubbleGenerator(464, 349, 6, self))
+        self.bubble_generators_group.add(BubbleGenerator(464, 349, 50, self))
+        self.bubble_generators_group.add(BubbleGenerator(464, 349, 50, self))
+        self.bubble_generators_group.add(BubbleGenerator(464, 349, 50, self))
 
 
         self.counter = 0
