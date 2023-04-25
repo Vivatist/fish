@@ -1,3 +1,3 @@
 # fish
 Игра на внимательность. Найди хитрую рыбку
-![Alt text](img/screen.png?raw=true "Optional Title")
+![sreen](img/screen.png?raw=true ""Экран игры"")
